@@ -1,0 +1,6 @@
+{
+  "name": "OmniDownloader",
+  "description": "Download MP4 videos in multiple formats and high-quality MP3 audio from YouTube, Facebook Reels, TikTok, and Instagram with high-concurrency request queueing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
